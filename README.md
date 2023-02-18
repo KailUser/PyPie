@@ -1,4 +1,7 @@
 
+![Logo](https://s9.gifyu.com/images/PyPie.gif)
+
+
 # PyPie
 
 PyPie is a Python-based command-line tool that allows you to check the status of a website, scan ports, and connect to an FTP server.
